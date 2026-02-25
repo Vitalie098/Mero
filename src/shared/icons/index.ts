@@ -1,0 +1,10 @@
+export { default as ArrowBackIcon } from "./ArrowBack.svg";
+export { default as LightHeartIcon } from "./LightHeart.svg";
+export { default as DarkHeartIcon } from "./DarkHeart.svg";
+export { default as RedHeartIcon } from "./RedHeart.svg";
+export { default as LightShareIcon } from "./LightShare.svg";
+export { default as DarkShareIcon } from "./DarkShare.svg";
+export { default as StarIcon } from "./Star.svg";
+export { default as EmptyStarIcon } from "./EmptyStar.svg";
+export { default as CloseIcon } from "./Close.svg";
+export { default as DotsIcon } from "./Dots.svg";
